@@ -114,7 +114,7 @@ Cybersecurity
 
 I'm always interested in connecting with fellow developers, cybersecurity enthusiasts, and students working on interesting projects.
 
-* 💼 LinkedIn: **Add your LinkedIn profile**
+* 💼 LinkedIn: **Add your LinkedIn profile**https://www.linkedin.com/in/bharath-gowda-d-9779081ab/
 * 🐙 GitHub: [@BlackVenom7405](https://github.com/BlackVenom7405)
 
 ---
