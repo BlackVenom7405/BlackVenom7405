@@ -1,168 +1,241 @@
-# 👋 Hi, I'm Bharath
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Python+Developer;Web+Security+Learner;Building+Security+Projects;Always+Learning+%26+Improving&center=true&width=600&height=50" alt="Typing introduction" />
-</p>
+# 👨‍💻 BHARATH
 
-<p align="center">
-  <strong>Cybersecurity Enthusiast • Developer • BE CSE Student</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Web+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%26+Analysis+%F0%9F%94%8E;Building+Security+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/BlackVenom7405">
-    <img src="https://komarev.com/ghpvc/?username=BlackVenom7405&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/BlackVenom7405?label=Followers&style=flat" alt="GitHub followers" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BlackVenom7405&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/BlackVenom7405?label=FOLLOWERS&style=for-the-badge&color=111827" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm a Computer Science Engineering student passionate about **Cybersecurity, Python development, Web Technologies, and Security Research**.
+## 🖥️ `SYSTEM STATUS`
 
-I enjoy building practical security projects, exploring vulnerabilities, analyzing attack behaviour, and developing tools that solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Initializing+Bharath.exe...;%5B%2B%5D+Loading+Cybersecurity+Modules...;%5B%2B%5D+Python+Environment+%5BONLINE%5D;%5B%2B%5D+Threat+Detection+Module+%5BONLINE%5D;%5B%2B%5D+Web+Security+Module+%5BONLINE%5D;%5B%2B%5D+System+Status%3A+OPERATIONAL+%E2%9C%93" alt="Terminal animation" />
 
-* 🎓 BE Computer Science Engineering Student
-* 🔐 Interested in Cybersecurity & Ethical Hacking
-* 🐍 Python Developer
-* 🌐 Web Development Enthusiast
-* 🛡️ Interested in Web Application Security
-* 🧠 Exploring Machine Learning for Cybersecurity
-* 🚀 Always learning and building
+```text
+┌──────────────────────────────────────────────────────┐
+│                 BHARATH // TERMINAL                  │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  USER        : Bharath                               │
+│  ROLE        : Cybersecurity Enthusiast              │
+│  SPECIALITY  : Security + Development                │
+│  STATUS      : ████████████████████  ONLINE          │
+│                                                      │
+│  [ Python ] [ Web Security ] [ VAPT ] [ ML ]         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-### 💻 Programming
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z5bWJ2MTR0b3F0dWJ3N3Z3dW5oMGJ4eW9tNXQ2eG9jM3RrY3N2NyZ0cG5mZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+I'm a **Computer Science Engineering student** interested in cybersecurity and software development.
+
+I enjoy building practical projects, experimenting with security tools, understanding vulnerabilities, and developing applications that solve real-world problems.
+
+```text
+🔐 Cybersecurity
+🐍 Python Development
+🌐 Web Technologies
+🛡️ Web Application Security
+🔎 Threat Detection
+🧠 Machine Learning
+🐧 Linux
+```
+
+<br clear="right"/>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-### 🛡️ Cybersecurity & Tools
+### 🛡️ Security & Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=kali,linux,git,github,vscode" />
 
-**Security Tools:** Burp Suite • OWASP ZAP • Nikto • Metasploit • Nmap
+</div>
+
+### 🔐 Security Tools
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  Nmap       ████████████████████                       │
+│  Burp Suite ████████████████████                       │
+│  OWASP ZAP  ████████████████████                       │
+│  Nikto      ████████████████████                       │
+│  Metasploit ████████████████████                       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🕵️ TrapNet — Web-Based Honeypot
+<div align="center">
 
-A web-based honeypot platform designed to simulate vulnerable web services, capture malicious interactions, detect attack patterns, and provide security insights.
+<a href="https://github.com/BlackVenom7405">
 
-**Technologies:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackVenom7405&repo=YOUR_HONEYPOT_REPO&theme=github_dark&hide_border=true" />
+
+</a>
+
+</div>
+
+### 🕵️ Web-Based Honeypot System
+
+A cybersecurity platform designed to simulate vulnerable web services, capture malicious interactions, detect attack patterns and provide insights for threat analysis.
+
+**Focus:** `Cybersecurity` `Python` `Flask` `Machine Learning` `Web Security`
 
 ---
 
 ### 🔍 Metadata Analyzer & Cleaner
 
-A privacy-focused web application for analyzing file metadata and removing potentially sensitive metadata from uploaded files.
+A privacy-focused application for analyzing file metadata and removing potentially sensitive metadata.
 
-**Technologies:** Python • Flask • Metadata Analysis • Web Technologies
+**Focus:** `Python` `Flask` `Privacy` `Digital Forensics`
 
 ---
 
 ### 🏛️ Smart Public Grievance System
 
-A web-based platform designed to simplify grievance submission, management, tracking, and administration through a centralized system.
+A web-based platform for submitting, managing and tracking public grievances through a centralized system.
 
-**Technologies:** Python • Web Development • Database
+**Focus:** `Web Development` `Database` `Python`
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 What I'm Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Web+Application+Security;Vulnerability+Assessment+%26+Penetration+Testing;Threat+Detection+%26+Analysis;Machine+Learning+for+Cybersecurity;Digital+Forensics;Secure+Web+Application+Development" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BlackVenom7405&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackVenom7405&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=BlackVenom7405&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackVenom7405&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+<div align="center">
 
 ```text
-Cybersecurity
-├── Web Application Security
-├── Vulnerability Assessment
-├── Penetration Testing
-├── Threat Detection
-├── Digital Forensics
-└── Security Automation
-
-Development
-├── Python
-├── Flask
-├── Java
-├── JavaScript
-└── Secure Web Development
-
-Machine Learning
-├── Data Preprocessing
-├── Feature Extraction
-├── Classification
-└── ML for Cybersecurity
+       ┌─────────────────────────────────────┐
+       │         MISSION: CYBERSECURITY      │
+       ├─────────────────────────────────────┤
+       │                                     │
+       │  [✓] Learn                          │
+       │  [✓] Build                          │
+       │  [✓] Experiment                     │
+       │  [→] Secure                         │
+       │  [→] Improve                        │
+       │  [→] Never Stop Learning             │
+       │                                     │
+       └─────────────────────────────────────┘
 ```
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackVenom7405&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackVenom7405&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BlackVenom7405&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🎯 2026 Goals
+</div>
 
 * 🔐 Strengthen practical cybersecurity skills
-* 🧪 Build more security-focused projects
-* 🌐 Improve secure web application development
-* 🧠 Explore AI/ML applications in cybersecurity
-* 🏆 Participate in cybersecurity challenges and hackathons
+* 🧪 Build security-focused projects
+* 🌐 Improve secure web development
+* 🧠 Explore AI/ML in cybersecurity
+* 🏆 Participate in security challenges and hackathons
 * 💼 Build a strong cybersecurity portfolio
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Certifications & Achievements
 
-<p align="center">
-  <a href="https://github.com/BlackVenom7405">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+`Cybersecurity` • `Web Security` • `Python` • `Networking` • `VAPT`
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build. Break. Learn. Secure."</i>
-</p>
+# 🌐 Connect With Me
 
-<p align="center">
-  ⭐ Explore my repositories and follow my journey in cybersecurity and development.
-</p>
+<div align="center">
+
+<a href="https://github.com/BlackVenom7405">
+<img src="https://img.shields.io/badge/GitHub-BlackVenom7405-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Keep+Learning...;%3E+Keep+Building...;%3E+Keep+Breaking...;%3E+Keep+Securing...;%3E+%5BSYSTEM+READY%5D" />
+
+<br><br>
+
+### `> Build. Break. Learn. Secure. 🔐`
+
+⭐ **Explore my repositories and follow my journey.**
+
+</div>
