@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 BHARATH
+# 👨‍💻 BHARATH GOWDA D
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Web+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%26+Analysis+%F0%9F%94%8E;Building+Security+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG" />
 
@@ -220,7 +220,7 @@ A web-based platform for submitting, managing and tracking public grievances thr
 <img src="https://img.shields.io/badge/GitHub-BlackVenom7405-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/bharath-gowda-d-9779081ab/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
