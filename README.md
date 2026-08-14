@@ -13,6 +13,23 @@
 </picture>
 <div align="center">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
+
+  <img
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
+</picture>
+
+</div>
+<div align="center">
+
 # 👨‍💻 BHARATH GOWDA D
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Web+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%26+Analysis+%F0%9F%94%8E;Building+Security+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG" />
