@@ -24,7 +24,7 @@
 
   <img
     alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
 </picture>
 
 </div>
