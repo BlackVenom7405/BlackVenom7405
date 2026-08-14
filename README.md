@@ -92,22 +92,21 @@ I enjoy building practical projects, experimenting with security tools, understa
 </div>
 
 ### 🔐 Security Tools
-
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+01+%5D+Nmap+%E2%86%92+Network+Reconnaissance;%5B+02+%5D+Burp+Suite+%E2%86%92+Web+Security+Testing;%5B+03+%5D+OWASP+ZAP+%E2%86%92+Web+Vulnerability+Scanning;%5B+04+%5D+Nikto+%E2%86%92+Web+Server+Scanning;%5B+05+%5D+Metasploit+%E2%86%92+Security+Testing;%5B+06+%5D+Kali+Linux+%E2%86%92+Security+Environment" alt="Animated Security Tools" /> <br>
+text
 ┌─────────────────────────────────────────────────────────┐
-│                  SECURITY TOOLKIT                       │
-├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  🔎 Nmap          → Network Reconnaissance             │
-│  🕵️ Burp Suite   → Web Security Testing                │
-│  🛡️ OWASP ZAP    → Vulnerability Scanning              │
-│  🌐 Nikto         → Web Server Scanning                │
-│  💀 Metasploit    → Security Testing                   │
-│  🐧 Kali Linux    → Security Environment               │
-│                                                         │
-│                 STATUS: [ ONLINE ]                      │
+│  Nmap       ████████████████████                        │
+│  Burp Suite ████████████████████                        │
+│  OWASP ZAP  ████████████████████                        │
+│  Nikto      ████████████████████                        │
+│  Metasploit ████████████████████                        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+Scanning...;%3E+Analyzing...;%3E+Testing...;%3E+Detecting...;%3E+Securing...;%3E+Ready+for+the+next+challenge." alt="Security Process Animation" /> </div>
+  
+---
+
   # 🔥 Contribution Streak
 
 <div align="center">
@@ -127,7 +126,6 @@ I enjoy building practical projects, experimenting with security tools, understa
 </div>
 
 ---
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+Scanning...;%3E+Analyzing...;%3E+Testing...;%3E+Detecting...;%3E+Securing...;%3E+Ready+for+the+next+challenge." alt="Security Process Animation" /> </div>
 
   <div align="center">
 <picture>
