@@ -1,7 +1,7 @@
 [
   {
-    "name": "TrapNet – Web-Based Honeypot System",
-    "repo": "BlackVenom7405/trapnet",
+    "name": "Sentinel.X – Web-Based Honeypot System",
+    "repo": "BlackVenom7405/honeypot",
     "logo": "trapnet.png",
     "description": "A web-based honeypot system that attracts, captures, monitors, and analyzes cyberattacker activities in a controlled environment.",
     "tags": [
@@ -14,8 +14,8 @@
   },
   {
     "name": "Metadata Cleaner & Analyzer",
-    "repo": "BlackVenom7405/meta-data-cleaner-",
-    "logo": "metadata-cleaner-analyzer.png",
+    "repo": "BlackVenom7405/Metadata-Analyzer-and-Cleaner",
+    "logo": "metadata.png",
     "description": "A privacy-focused web tool that analyzes hidden file metadata and removes sensitive information to protect digital privacy.",
     "tags": [
       "Python",
@@ -27,8 +27,8 @@
   },
   {
     "name": "Smart Public Grievance System",
-    "repo": "BlackVenom7405/smart-public-grievance-system",
-    "logo": "public-grievance.png",
+    "repo": "BlackVenom7405/Public-Grievance-Tracker",
+    "logo": "public.png",
     "description": "A smart platform that enables citizens to submit, track, and manage public complaints for faster and more transparent grievance resolution.",
     "tags": [
       "HTML",
@@ -39,10 +39,23 @@
     ]
   },
   {
-    "name": "E-Commerce Platform",
-    "repo": "BlackVenom7405/ecommerce",
-    "logo": "ecommerce.png",
-    "description": "A web-based e-commerce platform that allows users to browse products, manage a shopping cart, and complete online purchases.",
+    "name": "Metadata Cleaner",
+    "repo": "BlackVenom7405/metadata-cleaner",
+    "logo": "cleaner.png",
+    "description": "Metadata Cleaner is a privacy-focused tool that removes hidden metadata from digital files to protect sensitive information and improve file privacy.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Python"
+    ]
+  },
+   {
+    "name": "Metadata Analyzer",
+    "repo": "BlackVenom7405/Metadata-Analyzer",
+    "logo": "analyzer.png",
+    "description": "Metadata Analyzer is a privacy-focused tool that extracts, analyzes, and displays hidden metadata from digital files to reveal sensitive information.",
     "tags": [
       "HTML",
       "CSS",
@@ -54,7 +67,7 @@
   {
     "name": "AI Code Explainer & Analyzer",
     "repo": "BlackVenom7405/ai-code-explainer",
-    "logo": "ai-code-explainer.png",
+    "logo": "aicode.png",
     "description": "An AI-powered tool that analyzes source code and provides clear explanations, summaries, and insights into code structure and functionality.",
     "tags": [
       "Python",
