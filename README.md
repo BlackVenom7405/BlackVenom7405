@@ -9,7 +9,7 @@
 
   <img
     alt="Bharath Gowda D"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg">
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg">
 </picture>
 <div align="center">
 
