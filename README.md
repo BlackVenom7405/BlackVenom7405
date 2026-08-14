@@ -26,8 +26,15 @@
     alt="Snake eating my contributions"
     src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
 </picture>
-
 </div>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects.svg"
+    alt="Projects" />
+</div>
+
 <div align="center">
 
 # 👨‍💻 BHARATH GOWDA D
