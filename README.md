@@ -1,3 +1,16 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg">
+
+  <img
+    alt="Bharath Gowda D"
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg">
+</picture>
 <div align="center">
 
 # 👨‍💻 BHARATH GOWDA D
