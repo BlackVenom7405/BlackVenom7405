@@ -198,15 +198,6 @@ Mission Objectives
     alt="Projects" />
 </div>
 
-
-# 🏆 Certifications & Achievements
-
-<div align="center">
-
-`Cybersecurity` • `Web Security` • `Python` • `Networking` • `VAPT`
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
