@@ -96,7 +96,7 @@ I enjoy building practical projects, experimenting with security tools, understa
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+Scanning...;%3E+Analyzing...;%3E+Testing...;%3E+Detecting...;%3E+Securing...;%3E+Ready+for+the+next+challenge." alt="Security Process Animation" /> </div>
 
-
+<div align="center">
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
@@ -108,7 +108,7 @@ I enjoy building practical projects, experimenting with security tools, understa
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
-  
+</div> 
 ---
 
   # 🔥 Contribution Streak
