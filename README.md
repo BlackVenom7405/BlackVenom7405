@@ -13,31 +13,6 @@
 </picture>
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
-
-  <img
-    alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
-</picture>
-</div>
-<br/>
-<br/>
-<div align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects.svg"
-    alt="Projects" />
-</div>
-
-<div align="center">
-
 # 👨‍💻 BHARATH GOWDA D
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Web+Security+Learner+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%26+Analysis+%F0%9F%94%8E;Building+Security+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing SVG" />
@@ -118,79 +93,22 @@ I enjoy building practical projects, experimenting with security tools, understa
 
 ### 🔐 Security Tools
 
-```text
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+01+%5D+Nmap+%E2%86%92+Network+Reconnaissance;%5B+02+%5D+Burp+Suite+%E2%86%92+Web+Security+Testing;%5B+03+%5D+OWASP+ZAP+%E2%86%92+Web+Vulnerability+Scanning;%5B+04+%5D+Nikto+%E2%86%92+Web+Server+Scanning;%5B+05+%5D+Metasploit+%E2%86%92+Security+Testing;%5B+06+%5D+Kali+Linux+%E2%86%92+Security+Environment" alt="Animated Security Tools" /> <br>
 ┌─────────────────────────────────────────────────────────┐
+│                  SECURITY TOOLKIT                       │
+├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  Nmap       ████████████████████                       │
-│  Burp Suite ████████████████████                       │
-│  OWASP ZAP  ████████████████████                       │
-│  Nikto      ████████████████████                       │
-│  Metasploit ████████████████████                       │
+│  🔎 Nmap          → Network Reconnaissance             │
+│  🕵️ Burp Suite   → Web Security Testing                │
+│  🛡️ OWASP ZAP    → Vulnerability Scanning              │
+│  🌐 Nikto         → Web Server Scanning                │
+│  💀 Metasploit    → Security Testing                   │
+│  🐧 Kali Linux    → Security Environment               │
+│                                                         │
+│                 STATUS: [ ONLINE ]                      │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/BlackVenom7405">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackVenom7405&repo=YOUR_HONEYPOT_REPO&theme=github_dark&hide_border=true" />
-
-</a>
-
-</div>
-
-### 🕵️ Web-Based Honeypot System
-
-A cybersecurity platform designed to simulate vulnerable web services, capture malicious interactions, detect attack patterns and provide insights for threat analysis.
-
-**Focus:** `Cybersecurity` `Python` `Flask` `Machine Learning` `Web Security`
-
----
-
-### 🔍 Metadata Analyzer & Cleaner
-
-A privacy-focused application for analyzing file metadata and removing potentially sensitive metadata.
-
-**Focus:** `Python` `Flask` `Privacy` `Digital Forensics`
-
----
-
-### 🏛️ Smart Public Grievance System
-
-A web-based platform for submitting, managing and tracking public grievances through a centralized system.
-
-**Focus:** `Web Development` `Database` `Python`
-
----
-
-# 🧠 What I'm Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Web+Application+Security;Vulnerability+Assessment+%26+Penetration+Testing;Threat+Detection+%26+Analysis;Machine+Learning+for+Cybersecurity;Digital+Forensics;Secure+Web+Application+Development" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BlackVenom7405&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackVenom7405&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
+  # 🔥 Contribution Streak
 
 <div align="center">
 
@@ -209,10 +127,39 @@ A web-based platform for submitting, managing and tracking public grievances thr
 </div>
 
 ---
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+Scanning...;%3E+Analyzing...;%3E+Testing...;%3E+Detecting...;%3E+Securing...;%3E+Ready+for+the+next+challenge." alt="Security Process Animation" /> </div>
+
+  <div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
+
+  <img
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
+</picture>
+</div>
+
+
+# 🧠 What I'm Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Web+Application+Security;Vulnerability+Assessment+%26+Penetration+Testing;Threat+Detection+%26+Analysis;Machine+Learning+for+Cybersecurity;Digital+Forensics;Secure+Web+Application+Development" />
+
+</div>
+
+---
+
 
 # 🎯 2026 Mission
 
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+MISSION+INITIALIZED+%5D;%5B%2B%5D+Strengthen+Cybersecurity+Skills;%5B%2B%5D+Build+Security-Focused+Projects;%5B%2B%5D+Master+Secure+Web+Development;%5B%2B%5D+Explore+AI%2FML+in+Cybersecurity;%5B%2B%5D+Participate+in+Security+Challenges;%5B%2B%5D+Build+a+Strong+Cybersecurity+Portfolio;%5B%2B%5D+MISSION+STATUS%3A+IN+PROGRESS" alt="2026 Mission Animation" /> <br>
 
 ```text
        ┌─────────────────────────────────────┐
@@ -224,13 +171,14 @@ A web-based platform for submitting, managing and tracking public grievances thr
        │  [✓] Experiment                     │
        │  [→] Secure                         │
        │  [→] Improve                        │
-       │  [→] Never Stop Learning             │
-       │                                     │
+       │  [→] Never Stop Learning            |
+       │                                     |
+       │     STATUS: ██████████  ACTIVE      │
        └─────────────────────────────────────┘
 ```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=1600&pause=600&color=22D3EE&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Analyze+%E2%86%92+Secure;No+Shortcuts.+No+Limits.+Keep+Building." alt="Mission Status" /> </div>
 
-</div>
-
+Mission Objectives
 * 🔐 Strengthen practical cybersecurity skills
 * 🧪 Build security-focused projects
 * 🌐 Improve secure web development
@@ -239,6 +187,15 @@ A web-based platform for submitting, managing and tracking public grievances thr
 * 💼 Build a strong cybersecurity portfolio
 
 ---
+<br/>
+<br/>
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects.svg"
+    alt="Projects" />
+</div>
+
 
 # 🏆 Certifications & Achievements
 
