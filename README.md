@@ -1,17 +1,14 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg?v=2">
+<img
+  width="100%"
+  alt="Bharath Gowda D"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg#gh-dark-mode-only"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg?v=2">
-
-  <img
-    width="100%"
-    alt="Bharath Gowda D"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg?v=2">
-</picture>
+<img
+  width="100%"
+  alt="Bharath Gowda D"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg#gh-light-mode-only"
+/>
 <div align="center">
 
 # 👨‍💻 BHARATH GOWDA D
@@ -126,20 +123,18 @@ I enjoy building practical projects, experimenting with security tools, understa
 
 ---
 
-  <div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
+ <div align="center">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg" />
+<img
+  alt="Snake eating my contributions"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg#gh-dark-mode-only"
+/>
 
-  <img
-    alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-dark.svg" />
-</picture>
+<img
+  alt="Snake eating my contributions"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/output/snake-light.svg#gh-light-mode-only"
+/>
+
 </div>
 
 
