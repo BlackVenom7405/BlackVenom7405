@@ -202,15 +202,15 @@ Mission Objectives
 
 # 🌐 Connect With Me
 
+### `> Build. Break. Learn. Secure. 🔐`
+
+⭐ **Explore my repositories and follow my journey.**
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bharath-gowda-d-9779081ab/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/><img src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/bharath-gowda-d-9779081ab/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/><img src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></picture></a>
 <a href="https://www.instagram.com/_bharu__xo_/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA"/><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-F3F4F6?style=for-the-badge&logo=instagram&logoColor=E4405F"/><img src="https://img.shields.io/badge/Instagram-F3F4F6?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></picture></a>&nbsp;
 <a href="https://www.facebook.com/bharathr.dgowda.3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE"/><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-F3F4F6?style=for-the-badge&logo=facebook&logoColor=1877F2"/><img src="https://img.shields.io/badge/Facebook-F3F4F6?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></picture></a>&nbsp;
 <a href="mailto:bharathg98765@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981"/><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335"/><img src="https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></picture></a>
 
 </div>
-
-### `> Build. Break. Learn. Secure. 🔐`
-
-⭐ **Explore my repositories and follow my journey.**
