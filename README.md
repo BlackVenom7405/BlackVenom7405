@@ -204,87 +204,62 @@ Mission Objectives
 
 <div align="center">
 
-<!-- LINKEDIN -->
-
 <a href="https://www.linkedin.com/in/bharath-gowda-d-9779081ab/">
-
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00D9FF#gh-dark-mode-only"
-  alt="LinkedIn"
-/>
-
-<img
-  src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2#gh-light-mode-only"
-  alt="LinkedIn"
-/>
-
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+    alt="LinkedIn"
+    class="gh-dark-mode-only"
+  />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+    class="gh-light-mode-only"
+  />
 </a>
 
 &nbsp;&nbsp;
-
-
-<!-- INSTAGRAM -->
 
 <a href="https://www.instagram.com/_bharu__xo_/">
-
-<img
-  src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA#gh-dark-mode-only"
-  alt="Instagram"
-/>
-
-<img
-  src="https://img.shields.io/badge/Instagram-F3F4F6?style=for-the-badge&logo=instagram&logoColor=E4405F#gh-light-mode-only"
-  alt="Instagram"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA"
+    alt="Instagram"
+    class="gh-dark-mode-only"
+  />
+  <img
+    src="https://img.shields.io/badge/Instagram-F3F4F6?style=for-the-badge&logo=instagram&logoColor=E4405F"
+    alt="Instagram"
+    class="gh-light-mode-only"
+  />
 </a>
 
 &nbsp;&nbsp;
-
-
-<!-- FACEBOOK -->
 
 <a href="https://www.facebook.com/bharathr.dgowda.3">
-
-<img
-  src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE#gh-dark-mode-only"
-  alt="Facebook"
-/>
-
-<img
-  src="https://img.shields.io/badge/Facebook-F3F4F6?style=for-the-badge&logo=facebook&logoColor=1877F2#gh-light-mode-only"
-  alt="Facebook"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE"
+    alt="Facebook"
+    class="gh-dark-mode-only"
+  />
+  <img
+    src="https://img.shields.io/badge/Facebook-F3F4F6?style=for-the-badge&logo=facebook&logoColor=1877F2"
+    alt="Facebook"
+    class="gh-light-mode-only"
+  />
 </a>
 
 &nbsp;&nbsp;
 
-
-<!-- EMAIL -->
-
 <a href="mailto:bharathg98765@gmail.com">
-
-<img
-  src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981#gh-dark-mode-only"
-  alt="Email"
-/>
-
-<img
-  src="https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335#gh-light-mode-only"
-  alt="Email"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981"
+    alt="Email"
+    class="gh-dark-mode-only"
+  />
+  <img
+    src="https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+    class="gh-light-mode-only"
+  />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `> Build. Break. Learn. Secure. 🔐`
-
-⭐ **Explore my repositories and follow my journey.**
 
 </div>
