@@ -123,12 +123,6 @@ I enjoy building practical projects, experimenting with security tools, understa
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackVenom7405&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
 ---
 
   <div align="center">
