@@ -1,15 +1,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg">
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg?v=2">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg">
+    srcset="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg?v=2">
 
   <img
+    width="100%"
     alt="Bharath Gowda D"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/dark.svg">
+    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/main/light.svg?v=2">
 </picture>
 <div align="center">
 
