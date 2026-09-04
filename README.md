@@ -179,15 +179,25 @@ Mission Objectives
 * 💼 Build a strong cybersecurity portfolio
 
 ---
+#🗂️ Projects Hub
 <br/>
 <br/>
-<div align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects.svg"
-    alt="Projects" />
-</div>
 
+<div align="center">
+
+<img
+  width="100%"
+  alt="Projects"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects-dark.svg#gh-dark-mode-only"
+/>
+
+<img
+  width="100%"
+  alt="Projects"
+  src="https://raw.githubusercontent.com/BlackVenom7405/BlackVenom7405/projects/projects-light.svg#gh-light-mode-only"
+/>
+
+</div>
 ---
 
 # 🌐 Connect With Me
