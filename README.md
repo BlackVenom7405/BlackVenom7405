@@ -109,11 +109,25 @@ I enjoy building practical projects, experimenting with security tools, understa
 
 ---
 
-  # 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=BlackVenom7405&theme=github-dark-blue&hide_border=true" />
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=BlackVenom7405&theme=github-dark-blue&hide_border=true" />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=BlackVenom7405&theme=default&hide_border=true" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=BlackVenom7405&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak" />
+
+</picture>
 
 </div>
 
