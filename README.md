@@ -202,13 +202,8 @@ Mission Objectives
 
 # 🌐 Connect With Me
 
-### `> Build. Break. Learn. Secure. 🔐`
-
-⭐ **Explore my repositories and follow my journey.**
-
 <br/>
 
-<div align="center">
 
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/bharath-gowda-d-9779081ab/">
@@ -288,4 +283,8 @@ Mission Objectives
   </picture>
 </a>
 
+<div align="center">
+### `> Build. Break. Learn. Secure. 🔐`
+
+⭐ **Explore my repositories and follow my journey.**
 </div>
